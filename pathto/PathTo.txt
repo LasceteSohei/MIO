@@ -1,2 +1,5 @@
 Additional Library Directories: $(OPENCV_DIR)\install\x64\vc15\lib
+				$(SolutionDir)dev\lib
+				
 Additional include Directories: $(OPENCV_DIR)\install\include
+				$(SolutionDir)dev\include
